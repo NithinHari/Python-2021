@@ -31,4 +31,4 @@ del India_State_Capital_Date['Arunachalpradesh']
 print(India_State_Capital_Date['Karnataka'])
 for Data in India_State_Capital_Date.items():
     print(Data)
-    #print(Data)
+   
